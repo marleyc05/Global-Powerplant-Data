@@ -11,7 +11,7 @@
 ### What cold you use this data for?
 * This data could be used by environmental scientists to predict future environmental changes due to powerplant usage. 
 * Individuals in the general public could also use this repository. 
-### Data Visulazatiion
+### Data Visualization
 * The visualization was created using Tableau. To create your own data visualization you can download Tableau on your desktop. 
 * Tableau has free trial option so it doesn't cost anything.
 * You start by creating a notebook and adding your data then on sheet one, you can choose which type of visualization you would like to use.
