@@ -15,7 +15,7 @@
 * The visualization was created using Tableau. To create your own data visualization you can download Tableau on your desktop. 
 * Tableau has free trial option so it doesn't cost anything.
 * You start by creating a notebook and adding your data then on sheet one, you can choose which type of visualization you would like to use.
-  * hfhsjrfhre
+  * 
 #### Here is an image of the data visualization in 2017
 ![Visualization](https://github.com/marleyc05/Global-Powerplant-Data/assets/167792919/2cd45876-929d-48f5-a7c2-a91ea49ba1ed)
 
