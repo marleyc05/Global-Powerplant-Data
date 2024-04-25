@@ -8,7 +8,7 @@
 
 ## Where is this data from?
 * This data is from the [World Resources Institute](https://datasets.wri.org/dataset/globalpowerplantdatabase).
-## What cold you use this data for?
+## What could you use this data for?
 * This data could be used by environmental scientists to predict future environmental changes due to powerplant usage. 
 * Individuals in the general public could also use this repository if interested in powerplants. 
 ## Data Visualization
