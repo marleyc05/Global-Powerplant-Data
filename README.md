@@ -3,7 +3,7 @@
 * It contains the raw data set and the subset of data that was created using Python
 * In this repository, you will also find the [Python notebook](https://colab.research.google.com/drive/1Z4O7CiwDgksHzHRhYGJklUIcxN9Pfrs-#scrollTo=qr2--8YiKnoS) that includes the process for crafting the subset from the orginal data. 
 
-## What is the Purpose of this repository?
+## What is the purpose of this repository?
 * The purpose of this data is to understand and visualize the carbon footprint of the United States and see which company is producing the most harmful fuel. 
 
 ## Where is this data from?
