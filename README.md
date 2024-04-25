@@ -17,5 +17,5 @@
   * Tableau has free trial option so it doesn't cost anything.
   * You start by creating a notebook and adding your data then on sheet one, you can choose which type of visualization you would like to use.
 * **Below is a visualization for Global Powerplant data usage in the United States in 2017**
-![Visualization](https://github.com/marleyc05/Global-Powerplant-Data/assets/167792919/2cd45876-929d-48f5-a7c2-a91ea49ba1ed)
+![Visualization](https://github.com/marleyc05/Global-Powerplant-Data/blob/main/Final%20Visualization.png)
 
